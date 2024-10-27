@@ -25,3 +25,6 @@ Para ejecutar el servidor FastAPI:
 
 ```bash
 uvicorn main:app --reload
+
+
+![Descripción de la imagen](images/crearautor.png)
