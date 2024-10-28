@@ -19,12 +19,8 @@ Antes de ejecutar el código, asegúrate de cumplir con los siguientes requisito
 2. **Bucket de Amazon S3**: crea un bucket en S3 con el nombre `sistemas-distribuidos-upiiz-DAMOPK`.
    - Configura las credenciales de acceso a AWS en tu entorno para permitir que la API pueda realizar operaciones en este bucket.
 
-### Ejecución
-
-Para ejecutar el servidor FastAPI:
-
-```bash
-uvicorn main:app --reload
-
-
+### Pruebas
+respuesta de creacion con exito de un autor en la api
 ![Descripción de la imagen](images/crearautor.png)
+respuesta de creacion con exito de un autor en la base de datos
+![Descripción de la imagen](images/crearautordb.png)
