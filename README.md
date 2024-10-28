@@ -28,7 +28,7 @@ respuesta de creacion con exito de un autor en la base de datos
 respuesta de creacion con exito de un bibliotecario en la api
 ![Descripción de la imagen](imagenes/crearbibliotecario.png)
 respuesta de creacion con exito de un bibliotecario en la base de datos
-![Descripción de la imagen](imagenes/crearbibliotecariodb.png)
+![Descripción de la imagen](imagenes/crearbiblliotecariodb.png)
 
 respuesta de creacion con exito de un lector en la api
 ![Descripción de la imagen](imagenes/crearlector.png)
